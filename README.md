@@ -52,6 +52,12 @@ Credit card (auto): 1,150 / 300
 **4. Tenure & Charge Distributions**
 Early tenure groups (0–20 months) have higher customer counts and show more variability in charges – prime targets for retention efforts.
 
+**🛠 Tools & Technologies Used:**
+• Python (Pandas, NumPy)
+• Data Visualization (Matplotlib, Seaborn)
+• Data Preprocessing & Feature Engineering
+• Exploratory Data Analysis (EDA)
+
 ## 🤝 Connect With Me
 <p align="center">
   <a href="mailto:nadakhaledmahmoud412@gmail.com">
